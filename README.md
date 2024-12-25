@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm SanjayKumar T</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate Fullstack developer with a love for coding and designing a complex problems. Here you'll find a collection of my projects, contributions, and interests.</h3>
+<h1>Hi 👋, I'm SanjayKumar T</h1>
+<h3>Welcome to my GitHub profile! I'm a passionate Fullstack developer with a love for coding and designing a complex problems. Here you'll find a collection of my projects, contributions, and interests.</h3>
 
 - 🔭 I’m currently working on **Java Fullstack projects.**
 
